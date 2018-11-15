@@ -1,3 +1,5 @@
 The first commit to the file.
 
-This change is the second commit.
+This change is the second commit
+
+Bypassing the staging area , direct commit.
