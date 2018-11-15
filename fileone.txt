@@ -12,4 +12,9 @@ Bypassing the staging area , direct commit.
 
 few more chnages done
 
+
+....dsv///
+
+/dv/sd/
+=======
 adding conflicts iin the file
