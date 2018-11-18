@@ -12,7 +12,7 @@ Bypassing the staging area , direct commit.
 
 few more chnages done
 
-vn,sfnvmsf,snnmvsn
+vn,sfnvmsf,snnmvssdmdvmn
 ....dsv///
 
 /dv/sd/
